@@ -11,7 +11,6 @@ https://github.com/Vinhuanc/ICS232-01-Computer-organization-and-Architecture.git
 ```
 .
 └── ICS 232-01 
-  └── c_programms: contains c programs for hw#3 and hw#4
   └── CheatSheets: my cheatsheets to use for midterm and final exam
   └── Group Projects: content for all group projects for the class
   └── Homework_Keys: Professor provided keys for all homework assignments
